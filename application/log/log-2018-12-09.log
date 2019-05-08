@@ -1,0 +1,75 @@
+ERROR - 2018-12-09 11:05:21 --> Severity: Notice --> Undefined offset: 0 D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1580
+ERROR - 2018-12-09 11:05:21 --> Severity: Notice --> Undefined offset: 0 D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1598
+ERROR - 2018-12-09 11:05:30 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-12-09 11:05:30 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-12-09 11:05:30 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-12-09 11:05:30 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-12-09 11:05:35 --> Severity: Notice --> Undefined offset: 0 D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1580
+ERROR - 2018-12-09 11:05:35 --> Severity: Notice --> Undefined offset: 0 D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1598
+ERROR - 2018-12-09 11:06:04 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-12-09 11:06:04 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-12-09 11:06:04 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-12-09 11:06:04 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-12-09 11:06:07 --> Severity: Notice --> Undefined offset: 0 D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1587
+ERROR - 2018-12-09 11:07:57 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-12-09 11:07:57 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-12-09 11:07:57 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-12-09 11:07:57 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-12-09 11:08:01 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-12-09 11:08:01 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-12-09 11:08:01 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-12-09 11:08:01 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-12-09 11:08:18 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-12-09 11:08:19 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-12-09 11:08:19 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-12-09 11:08:19 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-12-09 11:28:04 --> Severity: Notice --> Undefined variable: result D:\OpenServer\domains\localhost\study\application\views\courses.php 15
+ERROR - 2018-12-09 11:28:04 --> Severity: Notice --> Undefined variable: result D:\OpenServer\domains\localhost\study\application\views\courses.php 17
+ERROR - 2018-12-09 11:28:04 --> Severity: Notice --> Undefined variable: result D:\OpenServer\domains\localhost\study\application\views\courses.php 19
+ERROR - 2018-12-09 11:28:04 --> Severity: Notice --> Undefined variable: result D:\OpenServer\domains\localhost\study\application\views\courses.php 22
+ERROR - 2018-12-09 11:28:04 --> Severity: Warning --> Invalid argument supplied for foreach() D:\OpenServer\domains\localhost\study\application\views\courses.php 22
+ERROR - 2018-12-09 11:30:59 --> Query error: Unknown column 'titlehy' in 'field list' - Invalid query: 
+            SELECT 
+                `titlehy` AS `title`, 
+                `alias_hy` AS `alias`  
+              FROM 
+                `courses` 
+            WHERE `status` = '1'
+        
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:31:10 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:17 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:18 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 11:32:20 --> Severity: Notice --> Undefined variable: lng D:\OpenServer\domains\localhost\study\application\views\courses.php 26
+ERROR - 2018-12-09 12:07:25 --> 404 Page Not Found: course/login_dialog

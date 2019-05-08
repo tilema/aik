@@ -1,0 +1,14 @@
+ERROR - 2018-12-01 23:24:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`,
+                `status` 
+             FROM 
+                `basic_settin' at line 3 - Invalid query: 
+            SELECT
+                `id`,
+                `title_hy AS `title`,
+                `status` 
+             FROM 
+                `basic_settings`  
+            WHERE status = 1
+            LIMIT 1 
+                 
+        

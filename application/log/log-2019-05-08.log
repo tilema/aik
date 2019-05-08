@@ -1,0 +1,487 @@
+ERROR - 2019-05-08 00:21:39 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:21:59 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:29:16 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:29:19 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:30:06 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:30:19 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:31:39 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:31:45 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:32:17 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:32:38 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:32:41 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:32:43 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:32:45 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:32:59 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:33:24 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:45:20 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:45:44 --> Could not find the language line "our_team"
+ERROR - 2019-05-08 00:46:50 --> Severity: Notice --> Undefined index: id D:\OpenServer\domains\aik.am\application\views\our_team.php 11
+ERROR - 2019-05-08 00:47:08 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 00:50:04 --> Severity: Notice --> Undefined index: title D:\OpenServer\domains\aik.am\application\controllers\Main.php 315
+ERROR - 2019-05-08 00:50:05 --> 404 Page Not Found: staff/img/our_team/person1.png
+ERROR - 2019-05-08 00:50:21 --> Severity: Notice --> Undefined index: title D:\OpenServer\domains\aik.am\application\controllers\Main.php 315
+ERROR - 2019-05-08 00:50:21 --> 404 Page Not Found: staff/img/our_team/person1.png
+ERROR - 2019-05-08 00:50:23 --> 404 Page Not Found: staff/img/our_team/person1.png
+ERROR - 2019-05-08 00:52:23 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 00:54:36 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 01:07:40 --> 404 Page Not Found: customer
+ERROR - 2019-05-08 01:10:20 --> Severity: Warning --> Illegal string offset 'image' D:\OpenServer\domains\aik.am\application\views\customers.php 9
+ERROR - 2019-05-08 01:10:20 --> Severity: Warning --> Illegal string offset 'name' D:\OpenServer\domains\aik.am\application\views\customers.php 10
+ERROR - 2019-05-08 01:10:20 --> Severity: Warning --> Illegal string offset 'image' D:\OpenServer\domains\aik.am\application\views\customers.php 9
+ERROR - 2019-05-08 01:10:20 --> Severity: Warning --> Illegal string offset 'name' D:\OpenServer\domains\aik.am\application\views\customers.php 10
+ERROR - 2019-05-08 01:10:20 --> Severity: Warning --> Illegal string offset 'image' D:\OpenServer\domains\aik.am\application\views\customers.php 9
+ERROR - 2019-05-08 01:10:20 --> Severity: Warning --> Illegal string offset 'name' D:\OpenServer\domains\aik.am\application\views\customers.php 10
+ERROR - 2019-05-08 01:10:20 --> Severity: Error --> Call to undefined function base_url() D:\OpenServer\domains\aik.am\application\views\errors\html\error_general.php 64
+ERROR - 2019-05-08 01:10:35 --> Severity: Warning --> Illegal string offset 'image' D:\OpenServer\domains\aik.am\application\views\customers.php 9
+ERROR - 2019-05-08 01:10:35 --> Severity: Warning --> Illegal string offset 'name' D:\OpenServer\domains\aik.am\application\views\customers.php 10
+ERROR - 2019-05-08 01:10:35 --> Severity: Warning --> Illegal string offset 'image' D:\OpenServer\domains\aik.am\application\views\customers.php 9
+ERROR - 2019-05-08 01:10:35 --> Severity: Warning --> Illegal string offset 'name' D:\OpenServer\domains\aik.am\application\views\customers.php 10
+ERROR - 2019-05-08 01:10:35 --> Severity: Warning --> Illegal string offset 'image' D:\OpenServer\domains\aik.am\application\views\customers.php 9
+ERROR - 2019-05-08 01:10:35 --> Severity: Warning --> Illegal string offset 'name' D:\OpenServer\domains\aik.am\application\views\customers.php 10
+ERROR - 2019-05-08 01:10:36 --> Severity: Error --> Call to undefined function base_url() D:\OpenServer\domains\aik.am\application\views\errors\html\error_general.php 64
+ERROR - 2019-05-08 01:10:36 --> Severity: Error --> Call to undefined function base_url() D:\OpenServer\domains\aik.am\application\views\errors\html\error_general.php 64
+ERROR - 2019-05-08 01:10:47 --> Could not find the language line "customers"
+ERROR - 2019-05-08 01:10:52 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 01:12:06 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 01:24:02 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 01:24:02 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 01:33:15 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 01:53:24 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 01:55:16 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 01:55:58 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:03:01 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:03:02 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:03:18 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:03:29 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:04:18 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:04:59 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:05:14 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:05:17 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:05:21 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:05:47 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:07:32 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 02:17:43 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 02:17:45 --> Query error: Unknown column 'title_hy' in 'field list' - Invalid query: 
+            SELECT
+                `id`,
+                `title_hy` AS `title`,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description,
+                `status`
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:18:25 --> Query error: Unknown column 'title_hy' in 'field list' - Invalid query: 
+            SELECT
+                `id`,
+                `title_hy` AS `title`,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description,
+                `status`
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:18:48 --> Query error: Unknown column 'title_hy' in 'field list' - Invalid query: 
+            SELECT
+                `id`,
+                `title_hy` AS `title`,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description,
+                `status`
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:19:32 --> Query error: Unknown column 'iamge1' in 'field list' - Invalid query: 
+            SELECT
+                `id`,
+                `iamge1`,
+                `iamge2`,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description,
+                `status`
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:19:33 --> Query error: Unknown column 'status' in 'field list' - Invalid query: 
+            SELECT
+                `id`,
+                `image1`,
+                `image2`,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description,
+                `status`
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:19:35 --> Query error: Unknown column 'status' in 'field list' - Invalid query: 
+            SELECT
+                `id`,
+                `image1`,
+                `image2`,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description,
+                `status`
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:20:00 --> Query error: Unknown column 'status' in 'field list' - Invalid query: 
+            SELECT
+                `id`,
+                `image1`,
+                `image2`,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description,
+                `status`
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:20:05 --> Query error: Unknown column 'status' in 'where clause' - Invalid query: 
+            SELECT
+                `id`,
+                `image1`,
+                `image2`,
+                `text_hy` AS text,
+                `meta_key_hy` AS keyword,
+                `meta_desc_hy` AS description
+             FROM
+                `homepage`
+            WHERE status = 1
+            LIMIT 1
+        
+ERROR - 2019-05-08 02:26:16 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:16 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:16 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:42 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:42 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:42 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:45 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:45 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:45 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:46 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:46 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:46 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:53 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:53 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:53 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:55 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_en` AS `about`,
+                `why_apply_en` AS `why_apply`,
+                `why_recruit_en` AS `why_recruit`,
+                `meta_keyword_en` AS keyword,
+                `meta_description_en` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 02:26:56 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:56 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:56 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:57 --> Could not find the language line "our_team"
+ERROR - 2019-05-08 02:26:57 --> Could not find the language line "our_team"
+ERROR - 2019-05-08 02:26:57 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:26:58 --> Could not find the language line "customers"
+ERROR - 2019-05-08 02:27:00 --> Query error: Table 'aik.country' doesn't exist - Invalid query: 
+            SELECT 
+                `id`,
+                `title_en` AS `title`,
+                `status`
+            FROM
+                `country`
+            WHERE `status` = '1'        
+        
+ERROR - 2019-05-08 02:27:01 --> Could not find the language line "customers"
+ERROR - 2019-05-08 02:27:45 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:27:45 --> Could not find the language line "aik"
+ERROR - 2019-05-08 02:27:45 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:19:35 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:19:35 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:19:35 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:21:47 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:21:47 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:21:47 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:22:29 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:22:29 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:22:29 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:08 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:08 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:08 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:11 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:11 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:11 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:17 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:17 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:17 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:54 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:54 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:23:54 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:24:23 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:24:23 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:24:23 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:24:30 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:24:30 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:24:30 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:25:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:25:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:25:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:25:14 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:25:14 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:25:14 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:26:37 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:26:37 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:26:37 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:03 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:03 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:03 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:07 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:07 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:07 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:51 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:51 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:29:51 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:36 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:36 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:36 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:40 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:40 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:40 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:53 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:53 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:30:53 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:31:27 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:31:27 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:31:27 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:31:33 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:31:33 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:31:33 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:32:01 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:32:01 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:32:01 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:32:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:32:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:32:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:33:21 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:33:21 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:33:21 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:34:57 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:34:57 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:34:57 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:35:17 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:35:17 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:35:17 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:35:51 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:35:51 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:35:51 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:15 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:15 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:15 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:18 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:18 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:18 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:34 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:34 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:34 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:39 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:39 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:39 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:57 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:57 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:57 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:59 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:59 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:36:59 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:06 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:06 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:06 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:09 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:11 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:11 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:37:11 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:46:24 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-08 18:53:34 --> Could not find the language line "company"
+ERROR - 2019-05-08 18:53:34 --> Could not find the language line "company"
+ERROR - 2019-05-08 18:53:34 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:53:36 --> Could not find the language line "company"
+ERROR - 2019-05-08 18:53:36 --> Could not find the language line "company"
+ERROR - 2019-05-08 18:53:36 --> Could not find the language line "aik"
+ERROR - 2019-05-08 18:53:57 --> Query error: Table 'aik.partner_university' doesn't exist - Invalid query: 
+            SELECT 
+                `short_name_hy` AS `short_name`, 
+                `alias_hy` AS `alias`  
+              FROM 
+                `partner_university` 
+            WHERE `status` = '1'
+        
+ERROR - 2019-05-08 18:56:08 --> Query error: Table 'aik.country' doesn't exist - Invalid query: 
+            SELECT 
+                `id`,
+                `title_hy` AS `title`,
+                `status`
+            FROM
+                `country`
+            WHERE `status` = '1'        
+        
+ERROR - 2019-05-08 18:57:42 --> Query error: Table 'aik.partner_university' doesn't exist - Invalid query: 
+            SELECT 
+                `short_name_hy` AS `short_name`, 
+                `alias_hy` AS `alias`  
+              FROM 
+                `partner_university` 
+            WHERE `status` = '1'
+        
+ERROR - 2019-05-08 19:14:30 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 19:15:22 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 19:16:19 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 19:22:12 --> Could not find the language line "library"
+ERROR - 2019-05-08 19:22:12 --> Could not find the language line "library"
+ERROR - 2019-05-08 19:22:12 --> Could not find the language line "aik"
+ERROR - 2019-05-08 19:22:14 --> Could not find the language line "library"
+ERROR - 2019-05-08 19:22:14 --> Could not find the language line "library"
+ERROR - 2019-05-08 19:22:14 --> Could not find the language line "aik"
+ERROR - 2019-05-08 19:24:55 --> Query error: Table 'aik.country' doesn't exist - Invalid query: 
+            SELECT 
+                `id`,
+                `title_hy` AS `title`,
+                `status`
+            FROM
+                `country`
+            WHERE `status` = '1'        
+        
+ERROR - 2019-05-08 19:28:41 --> Query error: Table 'aik.country' doesn't exist - Invalid query: 
+            SELECT 
+                `id`,
+                `title_hy` AS `title`,
+                `status`
+            FROM
+                `country`
+            WHERE `status` = '1'        
+        
+ERROR - 2019-05-08 19:30:57 --> Query error: Table 'aik.country' doesn't exist - Invalid query: 
+            SELECT 
+                `id`,
+                `title_hy` AS `title`,
+                `status`
+            FROM
+                `country`
+            WHERE `status` = '1'        
+        
+ERROR - 2019-05-08 19:35:55 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 19:40:21 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:40:21 --> Could not find the language line "aik"
+ERROR - 2019-05-08 19:40:21 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:40:22 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:40:22 --> Could not find the language line "aik"
+ERROR - 2019-05-08 19:40:22 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:40:23 --> Could not find the language line "customers"
+ERROR - 2019-05-08 19:40:25 --> Could not find the language line "our_team"
+ERROR - 2019-05-08 19:40:25 --> Could not find the language line "our_team"
+ERROR - 2019-05-08 19:40:25 --> Could not find the language line "aik"
+ERROR - 2019-05-08 19:40:25 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:40:25 --> Could not find the language line "aik"
+ERROR - 2019-05-08 19:40:25 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:41:53 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:41:53 --> Could not find the language line "aik"
+ERROR - 2019-05-08 19:41:53 --> Could not find the language line "services"
+ERROR - 2019-05-08 19:44:19 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 19:51:13 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-08 20:02:35 --> Could not find the language line "Contact_us"
+ERROR - 2019-05-08 20:02:55 --> Could not find the language line "Contact_us"
+ERROR - 2019-05-08 20:03:02 --> Could not find the language line "Contact_us"
+ERROR - 2019-05-08 20:03:15 --> Could not find the language line "Contact_us"

@@ -1,0 +1,123 @@
+ERROR - 2019-05-07 22:58:05 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-07 22:58:52 --> 404 Page Not Found: robots.txt
+ERROR - 2019-05-07 22:58:52 --> 404 Page Not Found: robots.txt
+ERROR - 2019-05-07 22:58:52 --> 404 Page Not Found: robots.txt
+ERROR - 2019-05-07 22:58:52 --> 404 Page Not Found: robots.txt
+ERROR - 2019-05-07 22:58:53 --> 404 Page Not Found: robots.txt
+ERROR - 2019-05-07 23:00:28 --> 404 Page Not Found: single_hratarakum.html
+ERROR - 2019-05-07 23:00:35 --> 404 Page Not Found: single_hratarakum.html
+ERROR - 2019-05-07 23:00:45 --> 404 Page Not Found: single_hratarakum.html
+ERROR - 2019-05-07 23:06:05 --> Severity: Notice --> Undefined index: id D:\OpenServer\domains\aik.am\application\views\publishment.php 16
+ERROR - 2019-05-07 23:08:37 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-07 23:08:41 --> Query error: Table 'aik.partner_university' doesn't exist - Invalid query: 
+            SELECT 
+                `short_name_hy` AS `short_name`, 
+                `alias_hy` AS `alias`  
+              FROM 
+                `partner_university` 
+            WHERE `status` = '1'
+        
+ERROR - 2019-05-07 23:11:38 --> Query error: Table 'aik.country' doesn't exist - Invalid query: 
+            SELECT 
+                `id`,
+                `title_hy` AS `title`,
+                `status`
+            FROM
+                `country`
+            WHERE `status` = '1'        
+        
+ERROR - 2019-05-07 23:16:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `id` = '1'
+             LIMIT 1' at line 8 - Invalid query: 
+            SELECT
+                `title_hy` AS `title`,
+                `date`,
+                `text_hy` AS `text`
+            FROM
+               `content`
+            WHERE /*`type_id` = '6'*/
+             AND `id` = '1'
+             LIMIT 1
+         
+ERROR - 2019-05-07 23:16:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND `id` = '1'
+             LIMIT 1' at line 8 - Invalid query: 
+            SELECT
+                `title_hy` AS `title`,
+                `date`,
+                `text_hy` AS `text`
+            FROM
+               `content`
+            WHERE /*`type_id` = '6'*/
+             AND `id` = '1'
+             LIMIT 1
+         
+ERROR - 2019-05-07 23:24:10 --> Severity: Notice --> Undefined index: id D:\OpenServer\domains\aik.am\application\views\datakan_akter.php 16
+ERROR - 2019-05-07 23:24:25 --> Severity: Notice --> Undefined index: id D:\OpenServer\domains\aik.am\application\views\datakan_akter.php 16
+ERROR - 2019-05-07 23:32:28 --> Could not find the language line "ordinary_changes_projects"
+ERROR - 2019-05-07 23:32:28 --> Could not find the language line "ordinary_changes_projects"
+ERROR - 2019-05-07 23:34:51 --> 404 Page Not Found: favicon.ico
+ERROR - 2019-05-07 23:36:33 --> Could not find the language line "legal_analysis"
+ERROR - 2019-05-07 23:36:33 --> Could not find the language line "legal_analysis"
+ERROR - 2019-05-07 23:36:43 --> Query error: Table 'aik.country' doesn't exist - Invalid query: 
+            SELECT 
+                `id`,
+                `title_hy` AS `title`,
+                `status`
+            FROM
+                `country`
+            WHERE `status` = '1'        
+        
+ERROR - 2019-05-07 23:36:56 --> Query error: Table 'aik.partner_university' doesn't exist - Invalid query: 
+            SELECT 
+                `short_name_hy` AS `short_name`, 
+                `alias_hy` AS `alias`  
+              FROM 
+                `partner_university` 
+            WHERE `status` = '1'
+        
+ERROR - 2019-05-07 23:37:22 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-07 23:37:25 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
+ERROR - 2019-05-07 23:37:28 --> Query error: Table 'aik.about_us' doesn't exist - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy` AS keyword,
+                `meta_description_hy` AS description
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         

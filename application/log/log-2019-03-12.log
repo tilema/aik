@@ -1,0 +1,3 @@
+ERROR - 2019-03-12 00:45:24 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'global_study_am' D:\OpenServer\domains\localhost\study\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2019-03-12 00:45:24 --> Unable to connect to the database
+ERROR - 2019-03-12 00:45:24 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\OpenServer\domains\localhost\study\system\core\Exceptions.php:271) D:\OpenServer\domains\localhost\study\system\core\Common.php 570

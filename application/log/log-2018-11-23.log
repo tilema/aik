@@ -1,0 +1,77 @@
+ERROR - 2018-11-23 00:02:47 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-23 00:02:47 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-23 00:02:48 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-23 00:02:48 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-23 00:03:44 --> Query error: Table 'global_study_am.corses' doesn't exist - Invalid query: INSERT INTO `corses`
+                    SET
+                      `title_hy` = 'Login Dialog',
+                      `alias_hy` = NULL,
+                      `background_image` = '664551f9.jpg',
+                      `why1_hy` = 'What does the course entail 1',
+                      `why2_hy` = 'What does the course entail 2',
+                      `why3_hy` = 'What does the course entail 3',
+                      `career1_hy` = 'Career Opportunities 1',
+                      `career2_hy` = 'Career Opportunities 2',
+                      `career3_hy` = 'Career Opportunities 3',
+                      `meta_keyword_hy` = 'դսադսադսադդսֆդս',
+                      `meta_description_hy` = 'գդասգդասգադսէթէթէթէթէթէթէթէ',
+                      `status` = '1'
+                
+ERROR - 2018-11-23 00:04:16 --> Query error: Unknown column 'alias_hy' in 'field list' - Invalid query: INSERT INTO `courses`
+                    SET
+                      `title_hy` = 'Login Dialog',
+                      `alias_hy` = NULL,
+                      `background_image` = 'ef964e7f.jpg',
+                      `why1_hy` = 'What does the course entail 1',
+                      `why2_hy` = 'What does the course entail 2',
+                      `why3_hy` = 'What does the course entail 3',
+                      `career1_hy` = 'Career Opportunities 1',
+                      `career2_hy` = 'Career Opportunities 2',
+                      `career3_hy` = 'Career Opportunities 3',
+                      `meta_keyword_hy` = 'դսադսադսադդսֆդս',
+                      `meta_description_hy` = 'գդասգդասգադսէթէթէթէթէթէթէթէ',
+                      `status` = '1'
+                
+ERROR - 2018-11-23 00:05:49 --> Query error: Unknown column 'meta_keyword_hy' in 'field list' - Invalid query: INSERT INTO `courses`
+                    SET
+                      `title_hy` = 'Login Dialog',
+                      `alias_hy` = NULL,
+                      `background_image` = '5d837a05.jpg',
+                      `why1_hy` = 'What does the course entail 1',
+                      `why2_hy` = 'What does the course entail 2',
+                      `why3_hy` = 'What does the course entail 3',
+                      `career1_hy` = 'Career Opportunities 1',
+                      `career2_hy` = 'Career Opportunities 2',
+                      `career3_hy` = 'Career Opportunities 3',
+                      `meta_keyword_hy` = 'դսադսադսադդսֆդս',
+                      `meta_description_hy` = 'գդասգդասգադսէթէթէթէթէթէթէթէ',
+                      `status` = '1'
+                
+ERROR - 2018-11-23 00:07:33 --> Severity: Notice --> Array to string conversion D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1360
+ERROR - 2018-11-23 00:07:33 --> Severity: Notice --> Array to string conversion D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1360
+ERROR - 2018-11-23 00:07:33 --> Severity: Notice --> Array to string conversion D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1360
+ERROR - 2018-11-23 00:07:33 --> Severity: Notice --> Array to string conversion D:\OpenServer\domains\localhost\study\application\modules\admin\controllers\Sysadmin.php 1360
+ERROR - 2018-11-23 00:08:11 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-23 00:08:11 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-23 00:08:11 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-23 00:08:11 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-23 00:09:02 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-23 00:09:02 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-23 00:09:02 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-23 00:09:02 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-23 00:09:03 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-23 00:09:03 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-23 00:09:03 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-23 00:09:03 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-23 00:09:04 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-23 00:09:04 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-23 00:09:04 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-23 00:09:05 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-23 00:09:25 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-23 00:09:25 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-23 00:09:25 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-23 00:09:26 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-23 00:12:03 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-23 00:12:04 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-23 00:12:04 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-23 00:12:04 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map

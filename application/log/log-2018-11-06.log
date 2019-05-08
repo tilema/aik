@@ -1,0 +1,69 @@
+ERROR - 2018-11-06 21:24:25 --> 404 Page Not Found: ../modules/admin/controllers/Sysadmin/basic_settings_ax
+ERROR - 2018-11-06 21:40:17 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:40:17 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:40:17 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:40:17 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:46:09 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:46:09 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:46:10 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:46:10 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:49:13 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:49:13 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:49:13 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:49:13 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:53:08 --> Query error: Table 'global_study_am.basic_info' doesn't exist - Invalid query: SELECT * FROM `basic_info` WHERE `id` = 1
+ERROR - 2018-11-06 21:53:38 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:53:38 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:53:38 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:53:38 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:54:30 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:54:30 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:54:31 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:54:31 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:54:43 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:54:43 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:54:43 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:54:43 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:55:39 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:55:40 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:55:40 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:55:40 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:56:34 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 21:56:34 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 21:56:34 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 21:56:34 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 21:59:24 --> Severity: Notice --> Undefined variable: background_image D:\OpenServer\domains\localhost\study\application\views\header.php 22
+ERROR - 2018-11-06 22:04:10 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 22:04:10 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 22:04:10 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 22:04:10 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 22:06:50 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 22:06:50 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 22:06:51 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 22:06:51 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 22:07:14 --> Query error: Unknown column 'meta_keywordhy' in 'field list' - Invalid query: UPDATE `about_us`
+					SET 
+					 `about_hy` = '<p>Global Study UK- ը Լոնդոնում հիմնված կրթական խորհրդատվություն է, որը մասնագիտանում է ուսանողներին ընտրելու եւ Կահիրեում, Ալեքսանդրիայում, Բեյրութում, Ջբելում եւ Մուսկատում տեղական գրասենյակների հետ: Մեր Լոնդոնի գրասենյակը հասանելի է ուսանողներին նախքան ընդունելության եւ ուսումնառության ընթացքում այցելելը: Մենք 50 տարուց ավելի կրթական փորձ ունենք եւ հպարտանում ենք ուսանողական հաջողությունների եւ ակադեմիական առաջընթացի մեր նվիրվածության վրա: Մենք առաջարկում ենք անվճար օգնություն առաջինից մինչեւ ձեր դիմումի վերջին քայլերը, ապահովելով Ձեր նախընտրած բրիտանական համալսարանի հիմնադրման կամ աստիճանավորման ծրագիր:</p>',
+					 `why_apply_hy` = '<p>. Ձեր կրթության ընթացքում շարունակական աջակցություն</p><p>. Մեր տեսլականը բոլոր ուսանողներին ապահովում է առաջարկություն</p><p>. Մարզային գրասենյակներ MENA տարածաշրջանում</p><p>. Մենք UCAS- ի պաշտոնական գրասենյակ ենք</p><p>. Աջակցություն Tier 4 UK vise- ի դիմումների հետ</p><p>. Աջակցություն համալսարան գտնելու հարցում</p><p>. Բոլոր խորհրդատվություններն ու ուղեցույցները <strong><em><u>անվճար են</u></em></strong></p>',
+					 `why_recruit_hy` = '<p>. Ձեռքբերման նպատակներին հասնելու վերջնակետային աջակցություն</p><p>. Ցուցահանդեսներ Մերձավոր Արեւելքում եւ Հյուսիսային Աֆրիկայում</p><p>. Հատուկ կապեր արտերկրի դպրոցների եւ քոլեջների հետ</p><p>. Մենք հետեւում ենք ուսանողական հարցմանը մեր միջոցառումներից</p><p>. Մենք ներգրավում ենք ունակ եւ բարձր կրթված ուսանողներ</p><p>. Ավելի քան 1.5 մլն սոցիալական լրատվամիջոցների երկրպագուների մեծածավալ շուկայավարման հզորությունը</p><p>. Մենք զգում ենք տարվա կտրվածքով արագ աճ</p>',
+					 `meta_keywordhy` = 'About study',
+					 `meta_descriptionhy` = 'Meta desc'
+				WHERE `id` = '1'
+ERROR - 2018-11-06 22:07:55 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 22:07:56 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 22:07:56 --> 404 Page Not Found: assets/admin/assets/libs/popper.js/dist/umd/popper.min.js.map
+ERROR - 2018-11-06 22:07:56 --> 404 Page Not Found: assets/admin/assets/libs/bootstrap/dist/js/bootstrap.min.js.map
+ERROR - 2018-11-06 22:09:43 --> 404 Page Not Found: assets/admin/assets/libs/quill/dist/quill.min.js.map
+ERROR - 2018-11-06 22:09:43 --> 404 Page Not Found: assets/admin/dist/css/icons/material-design-iconic-font/css/materialdesignicons.min.css.map
+ERROR - 2018-11-06 22:16:05 --> Query error: Unknown column 'meta_description _hy' in 'field list' - Invalid query: 
+            SELECT
+                `about_hy` AS `about`,
+                `why_apply_hy` AS `why_apply`,
+                `why_recruit_hy` AS `why_recruit`,
+                `meta_keyword_hy`  AS `meta_keyword`,
+                `meta_description _hy`  AS `meta_description`
+            FROM
+               `about_us`
+            WHERE `status` = '1'
+            LIMIT 1
+         
